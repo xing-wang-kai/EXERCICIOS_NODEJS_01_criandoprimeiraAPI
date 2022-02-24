@@ -3,3 +3,7 @@
 
 
 usando tipos com .this .catch async e await para promises
+
+#.then() e .catch() ~ encadeamento de funções
+#async and await 
+
