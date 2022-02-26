@@ -1,5 +1,7 @@
 ### EXERCICIOS_NODEJS-CriandoAPI
  Criando a Primeira API com nodejs
+
+ ---Esta api Pega alguns arquivos em MD e válida se os links estão ativos ou não.
  ##npm inity
 
  ##npm install
@@ -38,7 +40,7 @@
     -npm install node-fetch
 
     Para este projeto tive que ultilizar a versão npm install node-fetch@2
-    
+
     para demais bibliotécas: 
 
     "chalk": "^2.4.1",
